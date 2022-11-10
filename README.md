@@ -2,7 +2,7 @@ Profile views :
 
 ![](https://komarev.com/ghpvc/?username=cuynu)
 
-Popular repository download counts:
+Popular repository total download counts:
 
 cuynu/ytvanced:
 
