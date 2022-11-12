@@ -1,4 +1,4 @@
-For some reason, I hate r/Vanced community subreddit on Reddit.
+For some reason, I hate [r/Vanced](https://www.reddit.com/r/Vanced/) community subreddit on Reddit.
 
 Profile views :
 
