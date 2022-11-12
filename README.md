@@ -1,3 +1,5 @@
+For some reason, I hate r/Vanced community subreddit on Reddit.
+
 Profile views :
 
 ![](https://komarev.com/ghpvc/?username=cuynu)
