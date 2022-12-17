@@ -1,4 +1,4 @@
-Profile views :
+## Profile views :
 
 ![](https://komarev.com/ghpvc/?username=cuynu&style=for-the-badge)
 
@@ -11,19 +11,22 @@ Profile views :
 ## 📱 Devices in use
 [![XZ2](https://img.shields.io/static/v1?label=SONY&message=Xperia-XZ2&color=lightgrey)](https://www.gsmarena.com/sony_xperia_xz2-9081.php)
 [![K20P](https://img.shields.io/static/v1?label=Redmi&message=K20-Pro&color=lightgrey)](https://www.gsmarena.com/xiaomi_redmi_k20_pro-9708.php)
-[![K20P](https://img.shields.io/static/v1?label=Vinabox&message=X6-Pro&color=lightgrey)](https://vinakara.com/vinabox-x6-pro-ram-2gb-vinabox-moi-nhat-2020)
+[![Masstel](https://img.shields.io/static/v1?label=Masstel&message=X9.&color=lightgrey)](https://www.gsmchoice.com/en/catalogue/masstel/x9/)
+[![Vinabox](https://img.shields.io/static/v1?label=Vinabox&message=X6-Pro&color=lightgrey)](https://vinakara.com/vinabox-x6-pro-ram-2gb-vinabox-moi-nhat-2020)
 
-Popular repository total download counts:
+## Popular repository total download counts:
 
-cuynu/ytvanced:
+### cuynu/ytvanced:
 
 <a href="https://github.com/cuynu/ytvanced"><img src="https://img.shields.io/github/downloads/cuynu/ytvanced/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
 </p>
-cuynu/v2rayvn:
+
+### cuynu/v2rayvn:
 
 <a href="https://github.com/cuynu/v2rayvn"><img src="https://img.shields.io/github/downloads/cuynu/v2rayvn/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
 </p>
-cuynu/archive (actually view counts of ytvanced,not download counts)
+
+### cuynu/archive (actually view counts of ytvanced,not download counts)
 
 <a href="https://github.com/cuynu/archive/releases"><img src="https://img.shields.io/github/downloads/cuynu/archive/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
 </p>
