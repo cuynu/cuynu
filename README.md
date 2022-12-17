@@ -1,4 +1,4 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cuynu)](https://github.com/cuynu/repositorys)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cuynu)](https://github.com/cuynu?tab=repositories)
 
 Profile views :
 
