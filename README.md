@@ -1,6 +1,6 @@
 Profile views :
 
-![](https://komarev.com/ghpvc/?username=cuynu)
+![](https://komarev.com/ghpvc/?username=cuynu&style=for-the-badge)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cuynu)](https://github.com/cuynu?tab=repositories)
 
