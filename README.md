@@ -10,7 +10,7 @@
 [![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/)
 [![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
 
-## Popular repository total download counts:
+## Popular repositorys : 
 
 ### cuynu/ytvanced:
 
@@ -22,7 +22,7 @@
 <a href="https://github.com/cuynu/v2rayvn"><img src="https://img.shields.io/github/downloads/cuynu/v2rayvn/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
 </p>
 
-### cuynu/archive (actually view counts of ytvanced,not download counts)
+### cuynu/archive (actually view counts of ytvanced)
 
 <a href="https://github.com/cuynu/archive/releases"><img src="https://img.shields.io/github/downloads/cuynu/archive/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
 </p>
