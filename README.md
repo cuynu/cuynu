@@ -20,7 +20,5 @@ Discord : [cuynu](https://discord.com/users/988784897231552564)
 
 YouTube : [@cuynu](https://youtube.com/@cuynu)
 
-Telegram : [@cuynutt](https://t.me/cuynutt)
-
 Telegram channel : [@ytvancedupdates](https://t.me/ytvancedxupdates), [@ytvanced_chat](https://t.me/ytvancedx_chat)
 
