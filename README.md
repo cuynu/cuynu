@@ -26,6 +26,7 @@ Telegram channel : [@ytvancedupdates](https://t.me/ytvancedxupdates), [@ytvanced
 
 Currently, no PayPal or international donation method available yet. If you want to donate me, use **Super Thanks** feature on YouTube instead (remember use original YouTube app to use this feature if you are non-rooted.)
 
+<a href="https://m.youtube.com/watch?v=0oClepts_2g">
 <img alt="YouTube Vanced+ logo" src="https://github.com/cuynu/cuynu/assets/90895715/ccbfec4a-a0e1-4509-8471-3368a4eed9b7" width="400" height="410" />
 </a>
 
