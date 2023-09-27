@@ -23,6 +23,7 @@ YouTube : [@cuynu](https://youtube.com/@cuynu)
 Telegram channel : [@ytvancedupdates](https://t.me/ytvancedxupdates), [@ytvanced_chat](https://t.me/ytvancedx_chat)
 
 ## Donation
+**Disclaimer** : **Donation is NOT REQUIRED**, you have the right to decide whether to donate or not, it's your decision. **NO DRAMA AT ALL!**
 
 Currently, no PayPal or international donation method available yet. If you want to donate me, use **Super Thanks** feature on YouTube instead (remember use original YouTube app to use this feature if you are non-rooted.)
 
