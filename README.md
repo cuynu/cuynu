@@ -1,4 +1,13 @@
+# ❄️ Introduction 
+I'm from vietnam, a ordinary person with a simple life and low-end laptop. I love free, open source projects but due to poor programming skill, i only able can maintain small repo 🫠
 
+# 💻️ My laptop specifications 
+Device name : Acer TravelMate P648-M
+CPU : Intel Core i5 6200U (2P/4T)
+RAM : 12GB DDR4 2133
+SSD : 320GB
+OS : Linux Mint 21.2 Xfce (not arch btw)
+Development IDE : Android Studio, Intellij iDEA
 
 ## Open source projects 
 
