@@ -1,7 +1,7 @@
-# ❄️ Introduction 
+## ❄️ Introduction 
 I'm from vietnam, a ordinary person with a simple life and low-end laptop. I love free, open source projects but due to poor programming skill, i only able can maintain small repo 🫠
 
-# 💻️ My laptop specifications 
+## 💻️ My laptop specifications 
 Device name : Acer TravelMate P648-M
 CPU : Intel Core i5 6200U (2P/4T)
 RAM : 12GB DDR4 2133
