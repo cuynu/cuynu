@@ -3,10 +3,15 @@ I'm from vietnam, a ordinary person with a simple life and low-end laptop. I lov
 
 ## 💻️ My laptop specifications 
 Device name : Acer TravelMate P648-M
+
 CPU : Intel Core i5 6200U (2P/4T)
+
 RAM : 12GB DDR4 2133
+
 SSD : 320GB
+
 OS : Linux Mint 21.2 Xfce (not arch btw)
+
 Development IDE : Android Studio, Intellij iDEA
 
 ## Open source projects 
