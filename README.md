@@ -14,6 +14,10 @@ OS : Linux Mint 21.2 Xfce (not arch btw)
 
 Development IDE : Android Studio, Intellij iDEA
 
+## Donation 
+ <p align="left">
+    <a href="https://github.com/sponsors/cuynu"><img src="https://img.shields.io/badge/Support%20me%20:3-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square" alt="Badage"></img></a>
+
 ## Open source projects 
 
 ## [cuynu/VancedxMicroG](https://github.com/cuynu/VancedxMicroG)
