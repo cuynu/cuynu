@@ -10,7 +10,7 @@ RAM : 12GB DDR4 2133
 
 SSD : 320GB
 
-OS : Linux Mint 21.2 Xfce (not arch btw)
+OS : Arch Linux
 
 Development IDE : Android Studio, Intellij iDEA
 
